@@ -1,6 +1,6 @@
 %%%% AN 88 LINE TOPOLOGY OPTIMIZATION CODE Nov, 2010 %%%%
 %%%% Intersection Indicator, Threshold Stress, Intersection Objective and Sensitivity
-%%%  by Vibhas Mishra
+%%%  The original code is edited by Vibhas Mishra
 
 clear all
 close all
