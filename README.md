@@ -3,4 +3,4 @@
 
 MATLAB-based code to produce the WAAM frientldy design with low geometrical complexity. 
 Geometrical complexity is quantified using the stress field generated in the compliance minimization problem.
-The 
+The popular 88-line code to generate high-performance topology-optimized designs is modified to include the aspects related to WAAM.
