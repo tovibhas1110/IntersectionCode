@@ -8,9 +8,15 @@ We quantify geometrical complexity using the stress field generated in the compl
 
 The popular 88-line code (https://link.springer.com/article/10.1007/s00158-010-0594-7) to generate high-performance, topology-optimized designs is modified to include WAAM-related aspects.
 
-### Getting Started:
+### Required Libraries
+- numpy
+- scipy
+- matplotlib
+   
+### Getting Started: Python Code
 
 Clone the repository:
 ```bash
 git clone https://github.com/tovibhas1110/IntersectionCode.git
 cd IntersectionCode/IntersectionOpt
+python3 intersection.py
