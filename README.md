@@ -7,7 +7,9 @@ The popular 88-line code (https://link.springer.com/article/10.1007/s00158-010-0
 to generate high-performance, topology-optimized designs is modified to include WAAM-related aspects.
 
 **Getting Started:**
+### Installation
 
+Clone the repository:
 git clone https://github.com/tovibhas1110/IntersectionCode.git
 
 cd IntersectionCode/IntersectionOpt 
