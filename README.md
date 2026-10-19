@@ -10,6 +10,7 @@ to generate high-performance, topology-optimized designs is modified to include 
 ### Installation
 
 Clone the repository:
+```bash
 git clone https://github.com/tovibhas1110/IntersectionCode.git
 
 cd IntersectionCode/IntersectionOpt 
